@@ -57,6 +57,8 @@ OpenAI Gym environment: [BipedalWalker-v3](https://gym.openai.com/envs/BipedalWa
   <img src="https://github.com/ChienTeLee/td3_bipedal_walker/raw/master/doc/figure5.png" width="60%" height="55%"> 
 </p>
 
+## Slides
+[TD3_slides](https://github.com/ChienTeLee/td3_bipedal_walker/blob/master/TD3_slides.pdf)
 
 ## Reference
 This project is inspired by the following blogs:
