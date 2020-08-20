@@ -72,3 +72,5 @@ This project is inspired by the following blogs:
 4. [Twin Delayed DDPG](https://spinningup.openai.com/en/latest/algorithms/ddpg.html)
 
 5. [TD3: Learning To Run With AI](https://towardsdatascience.com/td3-learning-to-run-with-ai-40dfc512f93)
+
+6. [Recurrent Deterministic Policy Gradient Method for BipedalLocomotion on Rough Terrain Challenge](https://arxiv.org/abs/1710.02896)
